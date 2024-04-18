@@ -1,4 +1,4 @@
-# Instrukcja Użycia dla Skryptu Mirroringu Debian
+# Instrukcja Użycia dla [Skryptu Mirroringu Debian](https://github.com/stachusar/Debian-ftp/blob/main/debian-ftp.sh)
 
 ## Opis
 Ten skrypt Bash jest przeznaczony do tworzenia lokalnego lustra repozytorium Debian przy użyciu `rsync`. Skrypt sprawdza dostępność serwera lustrzanego, synchronizuje pliki, zarządza katalogami i loguje działania.
